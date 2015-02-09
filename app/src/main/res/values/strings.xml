@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Music now</string>
+    <string name="action_todo">Reproducir todo</string>
+    <string name="action_grabar">Grabar audio</string>
+    <string name="sonando">Esta sonando:</string>
+</resources>
